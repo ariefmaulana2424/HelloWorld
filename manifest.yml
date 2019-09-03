@@ -1,5 +1,5 @@
 ---
 applications:
-- name: HalloDunia
+- name: AutoDeploy
   path: target\HelloWorld-0.0.1-SNAPSHOT.jar
 
